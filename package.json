@@ -1,0 +1,22 @@
+{
+  "name": "eval-repl",
+  "version": "1.0.0",
+  "description": "repl.it-eval",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mikan-OwO/eval-repl.git"
+  },
+  "keywords": [
+    "eval"
+  ],
+  "author": "mikan-owo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mikan-OwO/eval-repl/issues"
+  },
+  "homepage": "https://github.com/Mikan-OwO/eval-repl#readme"
+}
